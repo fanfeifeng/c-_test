@@ -5,7 +5,7 @@ int main()
     std::cout<<"I am Wolangjushi\n";  
     std::cout<<"Please enter an integer:\n";  
     int a;  
-    std::cin>>a;  
+    std::cin>>at;  
     if(a>1)  
         std::cout<<"Bigger than 1"<<std::endl;  
     else  
